@@ -17,4 +17,13 @@ This can be used as a starter project for machine learning in general.
 
 Go through the MAIN PROJECT file step by step to get all the details.
 
-I have provided all the data files as well in DATA FILES folder.
+I have provided all the data files as well in this google drive link.
+
+LINK:https://drive.google.com/open?id=1kKstwczXZ9GOQjweA-dKEtS5XRJpvKt8
+
+<b>Please make sure to download these files beefore runnig this project on your machine.</b>
+
+
+These files are big so they will take some time to download.
+
+<b>we are taking here about seven files of 200,000 rows each, that's a lot of data.</b>
